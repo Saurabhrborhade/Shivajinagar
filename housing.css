@@ -1,0 +1,73 @@
+top{
+  color: white;
+}
+
+.textt{
+  position: absolute;
+  top: 20%;
+  left: 30%;
+  color: white;
+  text-align: center;
+  
+
+}
+
+}
+.drop{
+
+  background-color:white;
+  border-radius: 300px;
+  border: 2px solid black;
+  margin-top: 30px;
+  }
+.bottom{
+
+  text-align: center;
+  shape-margin: left ;
+  background-color: white;
+  width: 32%;
+  margin: 5% 0 0 30%;
+  padding: 2%;
+}
+
+
+
+p{
+  text-align: left;
+  margin-left: 8%;
+
+
+}
+
+
+a:hover{
+  background-color: yellow;
+}
+a:link{
+  text-decoration: none;
+  color: white;
+  padding: 0;
+  
+}
+
+b{
+  width: 20%;
+  
+  
+}
+
+.heading{
+
+  font-family: Redressed;
+  word-spacing: 4px;
+  font-size: 60px;
+  
+
+}
+
+.sub{
+  font-family: Redressed;
+  font-size: 30px;
+  line-height: 3;
+
+}
